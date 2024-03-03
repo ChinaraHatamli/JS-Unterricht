@@ -53,5 +53,6 @@
 // let result = 0.1 + 0.2;
 // console.log(Math.round (result*10)/10); 
 
-
+// let number = Math.floor (Math.random ()*100);
+// console.log (number);
 
