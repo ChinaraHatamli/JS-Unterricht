@@ -1,0 +1,10 @@
+Math.abs(x): Bir ədədin məntiqi, mütləq dəyərini qaytarır.(Məsələn, ədəd -4 olarsa, 4 kimi qaytarır).
+Math.ceil(x): Bir ədədi yuxarı ən yaxın tam ədədə yuvarlaq işləyir. (Məsələn, rəqəm: 4.1, onu 5 edir.)
+Math.floor(x): Bir ədədi aşağı ən yaxın tam ədədə yuvarlaq işləyir. (Məsələn, ədəd: 4.89, onu 4 edir.)
+Math.round(x): Bir ədədi ən yaxın tam ədədə yuvarlaq işləyir. (ədəd 4.1-dirsə, 4ə yuvarlaqlaşdırır, ədəd 4.89-dursa 5-ə yuvarlaqlaşdırır.)
+Math.trunc(): bir rəqəmin tam hissəsini qaytarır, yəni ondan sonra gələn qalıq hissəni atır və rəqəmi ən yaxın aşağı tam ədədə yuvarlayır. (ədəd 4.89-dursa,  tam ədədi 4-ü götürür.)
+Math.max(x, y, z, ...): Verilən ədədlərin ən böyüyünü tapır.
+Math.min(x, y, z, ...): Verilən ədədlərin ən kiçiyini tapır.
+Math.pow(x, y): x üzvünü y qüvvətə yüksəldir. (Məsələn, ədədin 3 üstü 5-dirsə, 243 qaytarır.
+Math.sqrt(x): Bir ədədin kvadrat kökünü tapır. (Məsələn, ədəd 64 olarsa, 8 qaytarır.)
+Math.random(): 0 ilə 1 arasında təsadüfi bir ədəd qaytarır.
